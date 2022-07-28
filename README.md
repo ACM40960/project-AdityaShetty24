@@ -1,16 +1,19 @@
 
 # AI Meme Challenge
+<hr>
 
 The project aims to test the existing neural network algorithm for image classification of Meme images which are very similar to each other.
 
 <img src="http://sanjay.ie/aditya/meme.jpg" height="300"/>
 
 ## Setting up python notebook
+
 -> Open your Google Drive
 
 -> Upload the .ipynb file > Open with > Google Colaboratory  
 
 ## GPU Setting
+
 Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardware accelerator
 
 #### Install Libraries :
