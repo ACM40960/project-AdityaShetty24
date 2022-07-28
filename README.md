@@ -51,7 +51,7 @@ You can run this block as many times you want to test the images. The prediction
 
 ## Authors
 
-- [@AdityaShetty](https://github.com/ACM40960/project-AdityaShetty24)
+- [@AdityaShetty_21200138](https://github.com/ACM40960/project-AdityaShetty24)
 
-- [@TejaBhatt](https://github.com/ACM40960/project-Teja_Bhat)
+- [@TejaBhat_21201064](https://github.com/ACM40960/project-TejarBhat)
 
