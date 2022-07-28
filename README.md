@@ -38,7 +38,7 @@ Google Colab is built for running Machine Learning projects hence has most of th
 
 ### GUI : Predicting the Image
 
-At the very end of the notebook, GUI will automatically run for testing, here you can upload a meme image from your local setup and check the accuracy.
+At the very end of the notebook, GUI will automatically run for testing, here you can upload a meme image from your local server/desktop and check the accuracy. You can download the dataset from [here](www.sanjay.ie/aditya/BACKUP.zip)
 
 <img src="http://sanjay.ie/aditya/GUI.gif" height="400"/>
 
