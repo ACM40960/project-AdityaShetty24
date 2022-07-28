@@ -44,6 +44,8 @@ At the very end of the notebook, GUI will automatically run for testing, here yo
 
 You can run this block as many times you want to test the images. The prediction/result will be displayed below the image with the calculated probability.
 
+*The entire notebook will take 12-15 minutes to run all blocks in GPU environment.*
+
 ## Authors
 
 - [@AdityaShetty](https://github.com/ACM40960/project-AdityaShetty24)
