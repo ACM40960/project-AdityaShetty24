@@ -2,7 +2,7 @@
 # AI Meme Challenge
 <hr>
 
-The project aims to test the existing neural network algorithm for image classification of Meme images which are very similar to each other.
+The project aims to test the existing neural network algorithm for image classification of Meme images such as muffin and chihuaha dogs which are very similar to each other.
 
 <img src="http://sanjay.ie/aditya/meme.jpg" height="300"/>
 
