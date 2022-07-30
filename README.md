@@ -53,5 +53,5 @@ You can run this block as many times you want to test the images. The prediction
 
 - [@AdityaShetty_21200138](https://github.com/ACM40960/project-AdityaShetty24)
 
-- [@TejaBhat_21201064](https://github.com/ACM40960/project-TejarBhat)
+- [@TejaBhat_21201067](https://github.com/ACM40960/project-TejarBhat)
 
