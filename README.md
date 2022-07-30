@@ -1,5 +1,5 @@
 
-# AI Meme Challenge
+# Identical Meme Classification: A Neural network approach
 <hr>
 
 The project aims to test the existing neural network algorithm for image classification of Meme images such as muffin and chihuaha dogs which are very similar to each other.
